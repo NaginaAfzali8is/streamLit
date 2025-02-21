@@ -2,7 +2,6 @@ import streamlit as st
 import requests
 import sqlite3
 import time
-import openai  # For GPT-based call summary analysis
 
 # 🔑 API Credentials
 API_KEY = "28191ede-bcfa-4a3f-9cdd-524bb8821bb0"
